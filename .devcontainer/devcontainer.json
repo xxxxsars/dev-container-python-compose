@@ -1,0 +1,15 @@
+{
+    "name": "Python 3",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "extensions": [
+        "mhutchie.git-graph",
+        "whensunset.chatgpt-china",
+        "cweijan.vscode-mysql-client2",
+        "gruntfuggly.todo-tree",
+        "ms-python.python",
+        "TabNine.tabnine-vscode",
+        "kevinrose.vsc-python-indent"
+    ]
+}
